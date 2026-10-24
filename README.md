@@ -71,7 +71,7 @@ Database terdiri dari 5 tabel relasional:
   ```
 
 * **Bukti Pengujian:**
-  <img width="640" height="338" alt="Screenshot 2026-10-24 145550" src="https://github.com/user-attachments/assets/c68d1158-bdc0-4df5-a2c0-e7e8a80a720b" />
+<img width="640" height="338" alt="Screenshot 2026-10-24 145550" src="https://github.com/user-attachments/assets/c68d1158-bdc0-4df5-a2c0-e7e8a80a720b" />
 
 #### 2. Cari/Tampilkan Buku
 
@@ -108,7 +108,7 @@ Database terdiri dari 5 tabel relasional:
   ```
 
 * **Bukti Pengujian:**
-  <img width="640" height="335" alt="Screenshot 2026-10-24 151415" src="https://github.com/user-attachments/assets/a0e79f00-048f-462e-bd12-895179178d4c" />
+<img width="640" height="335" alt="Screenshot 2026-10-24 151415" src="https://github.com/user-attachments/assets/a0e79f00-048f-462e-bd12-895179178d4c" />
 
 #### 3. Ubah Data Buku
 
@@ -148,7 +148,7 @@ Database terdiri dari 5 tabel relasional:
   
   ```
   * **Bukti Pengujian:**
-    <img width="631" height="338" alt="Screenshot 2026-10-24 183158" src="https://github.com/user-attachments/assets/bfdc5cfd-26c0-4a35-a645-bb1ff9ae5bf4" />
+  <img width="631" height="338" alt="Screenshot 2026-10-24 183158" src="https://github.com/user-attachments/assets/bfdc5cfd-26c0-4a35-a645-bb1ff9ae5bf4" />
 
 #### 4. Hapus Buku
 
@@ -167,7 +167,7 @@ Database terdiri dari 5 tabel relasional:
   
   ```
   * **Bukti Pengujian:**
-    <img width="638" height="336" alt="Screenshot 2026-10-24 183247" src="https://github.com/user-attachments/assets/c985d63e-42e7-49c5-88bb-9e2164224fce" />
+  <img width="638" height="336" alt="Screenshot 2026-10-24 183247" src="https://github.com/user-attachments/assets/c985d63e-42e7-49c5-88bb-9e2164224fce" />
 
 
 ### B. Endpoint Anggota
@@ -252,7 +252,7 @@ Database terdiri dari 5 tabel relasional:
   ```
 
 * **Bukti Pengujian:**
-  <img width="640" height="334" alt="Screenshot 2026-10-24 151323" src="https://github.com/user-attachments/assets/d099f031-7034-46dd-ac52-58b07a202453" />
+<img width="640" height="334" alt="Screenshot 2026-10-24 151323" src="https://github.com/user-attachments/assets/d099f031-7034-46dd-ac52-58b07a202453" />
 
 
 #### 7. Kembalikan Buku
@@ -282,7 +282,7 @@ Database terdiri dari 5 tabel relasional:
   
   ```
   * **Bukti Pengujian:**
-    <img width="640" height="335" alt="Screenshot 2026-10-25 040902" src="https://github.com/user-attachments/assets/d09b46c2-d5ce-4614-94e7-58f6d0a3ab94" />
+  <img width="640" height="335" alt="Screenshot 2026-10-25 040902" src="https://github.com/user-attachments/assets/d09b46c2-d5ce-4614-94e7-58f6d0a3ab94" />
 
 
 #### 8. Tampilkan Laporan Log Transaksi
