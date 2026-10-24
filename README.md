@@ -330,7 +330,7 @@ Database terdiri dari 5 tabel relasional:
   ```
 
 * **Bukti Pengujian:**
-  <img width="639" height="337" alt="Screenshot 2026-10-25 042823" src="https://github.com/user-attachments/assets/6d895e51-c274-4b85-b1e1-a22e917dd9a0" />
+<img width="639" height="337" alt="Screenshot 2026-10-25 042823" src="https://github.com/user-attachments/assets/6d895e51-c274-4b85-b1e1-a22e917dd9a0" />
 
 ## 5. Cara Menjalankan Project Secara Lokal
 
